@@ -298,6 +298,11 @@ From the public instance, SSH into the private instance using its private IP add
 
 ![image](https://github.com/chile4coding/DEVOPS-AWS/assets/93575252/7ba1cd61-cf8b-45a1-95ee-bf04c8f5c4b6)
 
+A diagram of the VPC architecture, showing the VPC, subnets, route tables, and security configurations.
+
+![image](https://github.com/user-attachments/assets/7eee9b42-580c-4ae3-bb6a-7aa283b05243)
+
+
 
 
 
