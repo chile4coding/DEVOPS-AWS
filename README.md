@@ -300,7 +300,8 @@ From the public instance, SSH into the private instance using its private IP add
 
 A diagram of the VPC architecture, showing the VPC, subnets, route tables, and security configurations.
 
-![image](https://github.com/user-attachments/assets/7eee9b42-580c-4ae3-bb6a-7aa283b05243)
+![image](https://github.com/user-attachments/assets/4c491a74-cddd-4712-a627-0e6876081749)
+
 
 
 
